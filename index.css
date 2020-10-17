@@ -1,0 +1,13 @@
+#outside{
+        height: 300px;
+        width: 300px;
+        background: red;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+p{
+        font-size: 2rem;
+        font-family: sans-serif;
+}
